@@ -1,0 +1,13 @@
+.venv/
+.vscode/
+eq_data_1_day_m1.json
+eq_data_30_day_m1.json
+explore_json1.py
+explore_json2.py
+global_earthquakes.html
+global_earthquakes1.html
+global_earthquakes2.html
+readable_eq_data.json
+readable_eq_data1.json
+readable_eq_data2.json
+show_color_scale.py
